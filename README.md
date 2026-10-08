@@ -1,6 +1,5 @@
-# learn-grpc-dotnet
-
-Sample project on how to expose C++ code via gRPC to a .NET API.
+# sum-matrix
+Sample project on how to expose C++ Armadillho code via gRPC to a .NET client.
 
 ## Dependencies
 
