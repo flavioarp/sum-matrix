@@ -1,5 +1,5 @@
 # sum-matrix
-Sample project on how to expose C++ Armadillho code via gRPC to a .NET client.
+Sample project on how to expose C++ Armadillo code via gRPC to a .NET client.
 
 ## Dependencies
 
